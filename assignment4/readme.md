@@ -154,13 +154,3 @@ npm run dev
 7. Integrate everything into Dashboard
 
 ---
-
-## Future Improvements
-
-- Backend integration
-- Authentication
-- Cloud sync
-- Analytics dashboard
-- Drag & drop support
-
----
